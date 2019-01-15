@@ -2,8 +2,8 @@
 title:              "The Plain"
 description:        "A minimalist Jekyll theme"
 author_name:        "sehyeun ryu" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
-
+# logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url: https://user-images.githubusercontent.com/30882248/51160031-554e4300-18cf-11e9-8886-171ea4d5c66b.jpg
 # Site Settings
 url:                https://hwasalco.github.io # main url
 baseurl:
